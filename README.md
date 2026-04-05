@@ -16,7 +16,8 @@ filter(), map(), reduce(), sort()
 
 ### Як запустити:
 Відкрити index.html у браузері
-
+### відеодемонстрація за посиланням:
+https://docs.google.com/videos/d/11DgT4Q5fwhjG0WtQ--obujjVs1GHMKXGpmKQwvbNdNg/edit?usp=sharing
 ### Автор:
 Устич Максим  
 Група alk-43
