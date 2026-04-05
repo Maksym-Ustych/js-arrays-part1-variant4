@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Практична 7.1 — Бібліотека книг</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Бібліотека книг</h1>
+        <p class="subtitle">Практична робота 7.1 — Варіант 4</p>
+
+        <div class="controls">
+            <button onclick="showBooks()">Показати всі книги</button>
+            <button onclick="searchBooks()">Пошук</button>
+            <button onclick="filterByStatus()">Фільтр за статусом</button>
+            <button onclick="filterByGenre()">Фільтр за жанром</button>
+            <button onclick="filterByYearRange()">Фільтр за роками</button>
+            <button onclick="showStatistics()">Статистика</button>
+            <button onclick="showRecommendations()">Рекомендації</button>
+            <button onclick="resetOutput()">Очистити</button>
+        </div>
+
+        <div id="output">Натисни кнопку для виконання операції.</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
